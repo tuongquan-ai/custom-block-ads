@@ -14,3 +14,7 @@
 /(^|\.)(chatroom-live\.shopee\.vn|live-apm\.shopee\.vn|qlivecdn\.com)$/$important
 ! ===== 5. SPOTIFY - quang cao & telemetry (an toan, khong chan nhac) =====
 /^((ads|ads-fa|ads-akp|audio-ads|adeventtracker|sap|aet|analytics|pixel|pixel-static|log|log2|metrics|bloodhound|bloodhound-off-helios)\.spotify\.(com|net)|ads-sp-lon\.cdn\.spotify\.com|mp3ad\.scdn\.co)$/
+! ===== 6. YOUTUBE / TIKTOK / FACEBOOK - quang cao & tracking (DNS) =====
+/(^|\.)(ads\.youtube\.com|doubleclick\.net|googlesyndication\.com|googletagservices\.com)$/
+/(^|\.)(analytics\.tiktok\.com|analytics-sg\.tiktok\.com|pangle\.io|pangolin-sdk-toutiao\.com|pangolin-sdk-toutiao-b\.com|pglstatp-toutiao\.com)$/
+/(^|\.)(an\.facebook\.com|pixel\.facebook\.com|analytics\.facebook\.com)$/
