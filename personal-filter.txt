@@ -1,13 +1,14 @@
 ! Title: Bo loc ca nhan (rut gon)
-! Updated: 2026-10-11
+! Updated: 2026-10-12
 ! ===== 1. ALLOWLIST - luon cho phep =====
-@@/(^|\.)(nhathuoclongchau\.com\.vn|mobidea\.com|googleadservices\.com)$/$important
+@@/(^|\.)(nhathuoclongchau\.com\.vn|mobidea\.com|googleadservices\.com|ads\.pinterest\.com|business\.pinterest\.com|analytics\.pinterest\.com|api\.pinterest\.com|ct\.pinterest\.com)$/$important
 @@/(^|\.)(mesu\.apple\.com|microsoft\.com|msn\.com|truecaller\.com|brightdata\.com|t\.co|ads-twitter\.com|ads-api\.x\.com|ads\.tiktok\.com|tiktokshop\.optismas\.com|poptok\.net|analytics\.gologin\.com|api-global\.adspower\.net)$/
 @@/(tvphim|hoathinh3d)/
 ! ===== 2. THUOC / TPCN / DONG Y CO TRUYEN =====
-/(thuocnam|dieutri|dactri|dongy|yhoc|cotruyen|namduoc|gout|xuongkhop|taobon|luongy|thaythuoc|giatruyen|giamdau|dantoc|suckhoe|bacsy|nhuantrang|loitieu)/$important
-/(^|\.)(anhoahung\.vn|thaphaco\.com\.vn|tinhtamfood\.com|medlatec\.vn|hivn\.vn|bupxanh\.com|visymo\.com|quatxanhvietnam\.com|thuoclasoi\.com|ccrd\.org\.vn|chiaki\.vn|imialeaplus\.com|chuyenkhoanamhoc\.com|trangphuclinh\.vn|tambinh\.vn|nhatnhat3hoathuyet\.vn|duocpqa\.com|thuocsiropqa\.vn|nhathuocviet\.vn|thuocthang\.vn|vienydhdt\.gov\.vn|bioacimin\.com|helipi\.com)$/$important
-/(^|\.)(nattojintan\.com|giaidocnhatnhat\.com|healthylifecare\.site|heposal\.vn|hangngoainhap\.com\.vn|jiohealth\.com|hewel\.com\.vn|saigonsmilespa\.com\.vn|japans\.vn|thuoctot24h\.com|myphamnhat\.info|vnha\.org\.vn|vitatree\.com\.vn|accgroup\.vn|zapmeta\.com\.vn|locmomau\.giaan115\.com|congdongungthu\.com|dothainam\.net|nhathuoc3p\.vn)$/$important
+/(thuoc|duocpham|duoclieu|duocsi|yduoc|thaoduoc|dongduoc|namduoc|dongy|yhoc|cotruyen|luongy|giatruyen|bacsy|bacsi|tpcn|tpbvsk|thucphamchucnang|dieutri|dactri|chuabenh|chuatri|giamdau|gout|xuongkhop|thoaihoa|tieuduong|huyetap|momau|daday|viemgan|matngu|sinhly|giamcan|giaidoc|taobon|nhuantrang|loitieu|dongtrung|hongsam|nhansam|suckhoe|dantoc)/$important
+/(pharma|vitamin|supplement|herbal|detox|collagen)/$important
+/(^|\.)(anhoahung\.vn|thaphaco\.com\.vn|tinhtamfood\.com|medlatec\.vn|hivn\.vn|bupxanh\.com|visymo\.com|quatxanhvietnam\.com|ccrd\.org\.vn|chiaki\.vn|imialeaplus\.com|chuyenkhoanamhoc\.com|trangphuclinh\.vn|tambinh\.vn|nhatnhat3hoathuyet\.vn|duocpqa\.com|vienydhdt\.gov\.vn|bioacimin\.com|helipi\.com)$/$important
+/(^|\.)(nattojintan\.com|healthylifecare\.site|heposal\.vn|hangngoainhap\.com\.vn|jiohealth\.com|hewel\.com\.vn|saigonsmilespa\.com\.vn|japans\.vn|myphamnhat\.info|vnha\.org\.vn|vitatree\.com\.vn|accgroup\.vn|zapmeta\.com\.vn|congdongungthu\.com|dothainam\.net)$/$important
 ! ===== 3. QUANG CAO / AFFILIATE / WEB RAC =====
 /(^|\.)(amzn\.pro|shope\.ee|nbet\.com|blogtin\.org|ecomobi\.blog|static\.8cache\.com|static\.truyenfull\.io|qc\.x8\.games|noinauruoukag\.wordpress\.com)$/$important
 ! ===== 4. SHOPEE LIVE / LIVESTREAM =====
