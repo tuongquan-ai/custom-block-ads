@@ -1,0 +1,8 @@
+! Title: An bai thuoc / TPCN tren mang xa hoi (cosmetic)
+! Chi chay tren AdGuard extension / AdGuard app co loc HTTPS, KHONG chay tren AdGuard DNS / AdGuard Home.
+! Facebook: an bai viet (ke ca bai tai tro) co tu khoa thuoc / TPCN
+facebook.com##div[aria-posinset]:has-text(/thuốc|dược liệu|dược phẩm|thực phẩm chức năng|tpcn|đông y|cổ truyền|xương khớp|thoái hóa|tiểu đường|huyết áp|mỡ máu|dạ dày|giảm cân|sinh lý|đông trùng|hồng sâm|collagen|detox|gout|gút|thucphamchucnang|xuongkhop|tieuduong|giamcan/i)
+! YouTube: an video / quang cao co tu khoa thuoc / TPCN
+youtube.com##:is(ytd-rich-item-renderer,ytd-video-renderer,ytd-compact-video-renderer,ytd-ad-slot-renderer,ytd-reel-item-renderer):has-text(/thuốc|dược liệu|dược phẩm|thực phẩm chức năng|tpcn|đông y|cổ truyền|xương khớp|thoái hóa|tiểu đường|huyết áp|mỡ máu|dạ dày|giảm cân|sinh lý|đông trùng|hồng sâm|collagen|detox|gout|gút/i)
+! TikTok web: an video co tu khoa thuoc / TPCN
+tiktok.com##:is([data-e2e="recommend-list-item-container"],[data-e2e="search_top-item"],[data-e2e="user-post-item"]):has-text(/thuốc|dược liệu|dược phẩm|thực phẩm chức năng|tpcn|đông y|cổ truyền|xương khớp|thoái hóa|tiểu đường|huyết áp|mỡ máu|dạ dày|giảm cân|sinh lý|đông trùng|hồng sâm|collagen|detox|gout|gút|thucphamchucnang|xuongkhop|tieuduong|giamcan/i)

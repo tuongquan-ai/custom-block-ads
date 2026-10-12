@@ -1,7 +1,7 @@
 ! Title: Bo loc ca nhan (rut gon)
 ! Updated: 2026-10-12
 ! ===== 1. ALLOWLIST - luon cho phep =====
-@@/(^|\.)(nhathuoclongchau\.com\.vn|mobidea\.com|googleadservices\.com|ads\.pinterest\.com|business\.pinterest\.com|analytics\.pinterest\.com|api\.pinterest\.com|ct\.pinterest\.com)$/$important
+@@/(^|\.)(nhathuoclongchau\.com\.vn|mobidea\.com|googleadservices\.com|pharmacity\.vn|pharmacity\.io|nhathuocankhang\.com|ads\.pinterest\.com|business\.pinterest\.com|analytics\.pinterest\.com|api\.pinterest\.com|ct\.pinterest\.com)$/$important
 @@/(^|\.)(mesu\.apple\.com|microsoft\.com|msn\.com|truecaller\.com|brightdata\.com|t\.co|ads-twitter\.com|ads-api\.x\.com|ads\.tiktok\.com|tiktokshop\.optismas\.com|poptok\.net|analytics\.gologin\.com|api-global\.adspower\.net)$/
 @@/(tvphim|hoathinh3d)/
 ! ===== 2. THUOC / TPCN / DONG Y CO TRUYEN =====
